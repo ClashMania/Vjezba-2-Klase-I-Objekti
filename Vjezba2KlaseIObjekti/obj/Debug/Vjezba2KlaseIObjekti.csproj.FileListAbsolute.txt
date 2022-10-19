@@ -1,0 +1,3 @@
+C:\Users\heist\Downloads\Vjezba-2-Klase-i-objekti-main\Vjezba2KlaseIObjekti\obj\Debug\Vjezba2KlaseIObjekti.csproj.AssemblyReference.cache
+C:\Users\heist\Downloads\Vjezba-2-Klase-i-objekti-main\Vjezba2KlaseIObjekti\obj\Debug\Vjezba2KlaseIObjekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Downloads\Vjezba-2-Klase-i-objekti-main\Vjezba2KlaseIObjekti\obj\Debug\Vjezba2KlaseIObjekti.csproj.CoreCompileInputs.cache
